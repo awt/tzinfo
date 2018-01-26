@@ -2,5 +2,5 @@
 
 module TZInfo
   # The TZInfo version number.
-  VERSION = '2.0.0.pre1'
+  VERSION = '1.2.5'
 end
